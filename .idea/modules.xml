@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class2/Array.iml" filepath="$PROJECT_DIR$/Class2/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataStructureAndAlgorithm.iml" filepath="$PROJECT_DIR$/.idea/DataStructureAndAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class3/List.iml" filepath="$PROJECT_DIR$/Class3/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class1/O(n).iml" filepath="$PROJECT_DIR$/Class1/O(n).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class5/Queue.iml" filepath="$PROJECT_DIR$/Class5/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class7/Sort.iml" filepath="$PROJECT_DIR$/Class7/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class4/Stack.iml" filepath="$PROJECT_DIR$/Class4/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class6/rec.iml" filepath="$PROJECT_DIR$/Class6/rec.iml" />
+    </modules>
+  </component>
+</project>

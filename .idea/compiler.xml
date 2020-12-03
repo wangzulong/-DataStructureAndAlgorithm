@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for Class5" enabled="true">
+        <sourceOutputDir name="../Class5/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../Class5/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Queue" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
