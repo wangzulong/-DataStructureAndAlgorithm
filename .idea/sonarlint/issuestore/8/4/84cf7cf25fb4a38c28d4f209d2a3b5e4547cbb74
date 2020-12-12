@@ -1,0 +1,18 @@
+
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(øÆˆ€
+0
+java:S1220""Move this file to a named package.
+Z
+java:S2147*"DCombine this catch with the one at line 40, which has the same body.(‹±ÃÆ
+Z
+java:S2147,"DCombine this catch with the one at line 40, which has the same body.(ï­£Ä
+T
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(”¿×›ùÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(´Ì¿Á
+T
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(âË–úÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(â´¦õıÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(Ëõç¨
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(ƒÀÒµ

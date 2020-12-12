@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(¡çºûÿÿÿÿ8øŠŸºâ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(•’¼äıÿÿÿÿ8øŠŸºâ.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(…¨‹Ïúÿÿÿÿ8öúıêá.

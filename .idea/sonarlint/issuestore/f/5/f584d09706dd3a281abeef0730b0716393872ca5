@@ -1,9 +1,11 @@
 
+0
+java:S1220""Move this file to a named package.
 \
 java:S1118":Add a private constructor to hide the implicit public one.(×†ŸÂÿÿÿÿÿ8¥ïô½à.
 T
 java:S1197"8Move the array designator from the variable to the type.(å é8—ù½à.
 t
 java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‰ê†Àıÿÿÿÿ8¿ø†¾à.
-0
-java:S1220""Move this file to a named package.
+x
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(ğ¸äûÿÿÿÿ8úŠŸºâ.

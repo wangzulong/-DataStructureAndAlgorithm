@@ -1,0 +1,15 @@
+
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(àÈ¥Ìüÿÿÿÿ8ƒ™ë‡ä.
+j	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ»Ê¥8²¡Ø‡ä.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ûøÃá8àÑ„ˆä.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(…è£ïùÿÿÿÿ8àÑ„ˆä.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(·àıœÿÿÿÿÿ8àÑ„ˆä.
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(”®ñ’ÿÿÿÿÿ8ÍÄÂˆä.
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(ÉÔËüÿÿÿÿ8àÑ„ˆä.
+j	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°àß€8ã…Ù‡ä.
+0
+java:S1220""Move this file to a named package.
+<
+java:S16598"Declare "i" on a separate line.(È¢Âñ8î—Û‡ä.
+j	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìª›ã8÷¶×‡ä.

@@ -2,13 +2,16 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile name="Annotation profile for Class5" enabled="true">
-        <sourceOutputDir name="../Class5/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../Class5/target/generated-test-sources/test-annotations" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Class19" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="B+Tree" target="1.8" />
+      <module name="Class19" target="1.8" />
       <module name="Queue" target="1.8" />
     </bytecodeTargetLevel>
   </component>

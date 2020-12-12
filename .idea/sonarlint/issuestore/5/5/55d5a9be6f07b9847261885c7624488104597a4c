@@ -1,0 +1,21 @@
+
+T	java:S106q"9Replace this use of System.out or System.err by a logger.(ã¤ïY8Ä¬Èˆä.
+]	java:S1252"<This block of commented-out lines of code should be removed.(Òºëåÿÿÿÿÿ8™õŽÔã.
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Êª–Ôã.
+m	java:S117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€äŽº8Ä¬Èˆä.
+m	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬»®º8ìÆ’Ôã.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106p"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Êª–Ôã.
+r	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”²ùƒùÿÿÿÿ8ìÆ’Ôã.
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(ÂÀÇ÷ýÿÿÿÿ8Êª–Ôã.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Êª–Ôã.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(×¯ÁÆÿÿÿÿÿ8ý“üÔã.
+m	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¥ý8ìÆ’Ôã.
+r	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å‡öðüÿÿÿÿ8ìÆ’Ôã.
+m	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ÌÆ§8ìÆ’Ôã.
+Z	java:S106n"9Replace this use of System.out or System.err by a logger.(··þˆÿÿÿÿÿ8Ä¬Èˆä.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(žÎ–²8Êª–Ôã.
+r	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ëîýÿÿÿÿ8ìÆ’Ôã.
+r	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çù”¸úÿÿÿÿ8ìÆ’Ôã.
+r	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùû¦¢ùÿÿÿÿ8Ä¬Èˆä.

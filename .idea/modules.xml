@@ -3,13 +3,20 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Class2/Array.iml" filepath="$PROJECT_DIR$/Class2/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class12/B+Tree.iml" filepath="$PROJECT_DIR$/Class12/B+Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class19/BloomFIlter.iml" filepath="$PROJECT_DIR$/Class19/BloomFIlter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class19/Class19.iml" filepath="$PROJECT_DIR$/Class19/Class19.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DataStructureAndAlgorithm.iml" filepath="$PROJECT_DIR$/.idea/DataStructureAndAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class18/Hash BitMap.iml" filepath="$PROJECT_DIR$/Class18/Hash BitMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class3/List.iml" filepath="$PROJECT_DIR$/Class3/List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class1/O(n).iml" filepath="$PROJECT_DIR$/Class1/O(n).iml" />
       <module fileurl="file://$PROJECT_DIR$/Class5/Queue.iml" filepath="$PROJECT_DIR$/Class5/Queue.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Class7/Sort.iml" filepath="$PROJECT_DIR$/Class7/Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class7&amp;8/Sort.iml" filepath="$PROJECT_DIR$/Class7&amp;8/Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class4/Stack.iml" filepath="$PROJECT_DIR$/Class4/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class6/rec.iml" filepath="$PROJECT_DIR$/Class6/rec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class10/tree.iml" filepath="$PROJECT_DIR$/Class10/tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class11/treeSearch.iml" filepath="$PROJECT_DIR$/Class11/treeSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class9/tx.iml" filepath="$PROJECT_DIR$/Class9/tx.iml" />
     </modules>
   </component>
 </project>
