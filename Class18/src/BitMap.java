@@ -8,7 +8,7 @@ public class BitMap {
 
 	public BitMap(int maxValue) {
 		this.maxValue = maxValue;
-		size = new int[maxValue >> 4 + 1];
+		size = new int[maxValue >> 8 + 1];
 	}
 
 	public static void main(String[] args) {
@@ -25,13 +25,13 @@ public class BitMap {
 	}
 
 	public void add(int n) {
-		int index = n >> 4;
+		int index = n >> 8;
 		int location = n & 31;
 		size[index] |= 1 << location;
 	}
 
 	public boolean contains(int n) {
-		int index = n >> 4;
+		int index = n >> 8;
 		int location = n & 31;
 		int flag = size[index] & 1 << location;
 		if (flag == 0) {
@@ -41,7 +41,7 @@ public class BitMap {
 	}
 
 	public void remove(int n) {
-		int index = n >> 4;
+		int index = n >> 8;
 		int location = n & 31;
 		size[index] &= 0 << location;
 	}
